@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharvesh R</h1>
 <div align="center"><img src="https://raw.githubusercontent.com/rsharvesh16/rsharvesh16/main/1683558214524.jpg"></div>
 <h3 align="center">Am currently an undergraduate (B.Tech IT) student. Am passionate about learning Software Development.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rsharvesh16/rsharvesh16/main/new.gif">
 
 - 🔭 I’m currently working on **DSA and DevOps**
 
