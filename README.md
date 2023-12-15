@@ -32,9 +32,6 @@
 <a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; </a>
   </p>
 <center>
-
-
-  
 <div align="center">
 <center>
 
