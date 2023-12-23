@@ -1,5 +1,6 @@
 
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sharvesh R</h1>
+
 <div align="center"><img src="https://raw.githubusercontent.com/rsharvesh16/rsharvesh16/main/1683558214524.jpg"></div>
 <h3 align="center">Am currently an undergraduate (B.Tech IT) student. Am passionate about learning Software Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rsharvesh16/rsharvesh16/main/new.gif">
