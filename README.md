@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **rsharvesh16@gmail.com**
  <br>
- [![GitHub Views](https://komarev.com/ghpvc/?username=rsharvesh16&color=FAC151)][1]
+ [![GitHub Views](https://komarev.com/ghpvc/?username=rsharvesh16)][1]
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
