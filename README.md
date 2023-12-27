@@ -18,8 +18,6 @@
 - 💬 Ask me about **anything, If I know, I'll let you know.**
 
 - 📫 How to reach me: **rsharvesh16@gmail.com**
- <br>
-![](https://komarev.com/ghpvc/?username=rsharvesh16)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
