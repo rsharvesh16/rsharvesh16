@@ -5,13 +5,13 @@
 <h3 align="center">Am currently an undergraduate (B.Tech IT) student. Am passionate about learning Software Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rsharvesh16/rsharvesh16/main/new.gif">
 
-- 🔭 I’m currently working on **DSA and DevOps**
+- 🔭 I’m currently working on **LLM, Agents and DevOps**
 
-- 🌱 I’m currently learning **Software Development and DevOps**
+- 🌱 I’m currently learning **AI/ML, LLM, Agents and Software Development**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 🤝 I’m interested in **DevOps and Machine Learning**
+- 🤝 I’m interested in **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rsharvesh16](https://github.com/rsharvesh16)
 
